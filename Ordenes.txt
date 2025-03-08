@@ -1,0 +1,8 @@
+-----------------------------------
+Numero de orden 2
+Nombre del disfraz: Mickey Mouse
+Codigo del disfraz:  5678
+Talla: G
+Precio: 600
+
+PRECIO TOTAL: 600
